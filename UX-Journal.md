@@ -2,13 +2,13 @@
 
 ## Riley Spas, March 15, 2024
 
-![Adobe Premiere Pro Interface]([BASIC SCREENSHOT LINK](2024-03-16 10_48_22-Window.png))
+![Adobe Premiere Pro Interface]([BASIC SCREENSHOT LINK](assets/Image1))
 
 ### Something I like to do in my free time, as well as a side hustle is shoot concerts and edit promo videos together for local bands. I use Adobe Premier as my primary video editing software.
 
 ### One of the most interesting features of a software like this is the ablility to do color grading on video. Color grading is a post-production process that entails changing the colors in a video such that they match a certain tone or appearance, or even so they appear better on specific devices.  Here is a quick side by side of what I mean:
 
-![Photo of side by side]([IMAGE LINK FROM EARLIER](2024-03-15 17_03_47-Adobe Premiere Pro 2024 - C__Users_riley_Documents_Adobe_Premiere Pro_15.0_DEMO.png))
+![Photo of side by side]([IMAGE LINK FROM EARLIER](assets/Image2))
 
 ### Above is a screenshot of a video I took on lake almanor. I wanted to make this footage look like it was taken at sunset when really it was around 3pm. The sliding bars on the right of the screenshot above, create an effect on the video in real time, which is a great example of **visibility of system status**.  This is widely considered good practice in the scope of usability and, in this case, ensures that the user will always have instant feedback from the software. 
 ### Directly above the sliders you can see two buttons labeled: auto and reset respectively. Premier Pro also supports the conventional windows keyboard shortcuts including ctrl-z for undo and ctrl-y for redo. These all contribute to a design concept called **user control and freedom**, giving the user an "emergency exit" that they would be able to find easily.  The auto and reset buttons also go hand in hand with the principle of **recognition rather than recall**. Even if it was your first time using Premier Pro you would be able to use the buttons.
