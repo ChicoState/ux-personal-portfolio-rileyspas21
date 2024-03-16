@@ -2,13 +2,13 @@
 
 ## Riley Spas, March 15, 2024
 
-![Adobe Premiere Pro Interface](BASIC SCREENSHOT LINK)
+![Adobe Premiere Pro Interface]([BASIC SCREENSHOT LINK](https://github.com/ChicoState/ux-personal-portfolio-rileyspas21/blob/master/2024-03-15%2017_03_47-Adobe%20Premiere%20Pro%202024%20-%20C__Users_riley_Documents_Adobe_Premiere%20Pro_15.0_DEMO%20.png))
 
 ### Something I like to do in my free time, as well as a side hustle is shoot concerts and edit promo videos together for local bands. I use Adobe Premier as my primary video editing software.
 
 ### One of the most interesting features of a software like this is the ablility to do color grading on video. Color grading is a post-production process that entails changing the colors in a video such that they match a certain tone or appearance, or even so they appear better on specific devices.  Here is a quick side by side of what I mean:
 
-![Photo of side by side](IMAGE LINK FROM EARLIER)
+![Photo of side by side]([IMAGE LINK FROM EARLIER](https://github.com/ChicoState/ux-personal-portfolio-rileyspas21/blob/master/2024-03-15%2017_03_47-Adobe%20Premiere%20Pro%202024%20-%20C__Users_riley_Documents_Adobe_Premiere%20Pro_15.0_DEMO%20.png))
 
 ### Above is a screenshot of a video I took on lake almanor. I wanted to make this footage look like it was taken at sunset when really it was around 3pm. The sliding bars on the right of the screenshot above, create an effect on the video in real time, which is a great example of **visibility of system status**.  This is widely considered good practice in the scope of usability and, in this case, ensures that the user will always have instant feedback from the software. 
 ### Directly above the sliders you can see two buttons labeled: auto and reset respectively. Premier Pro also supports the conventional windows keyboard shortcuts including ctrl-z for undo and ctrl-y for redo. These all contribute to a design concept called **user control and freedom**, giving the user an "emergency exit" that they would be able to find easily.  The auto and reset buttons also go hand in hand with the principle of **recognition rather than recall**. Even if it was your first time using Premier Pro you would be able to use the buttons.
