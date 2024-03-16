@@ -1,6 +1,6 @@
 # Color Grading in Adobe Premier
 
-## Byline: Riley Spas, March 15, 2024
+## Riley Spas, March 15, 2024
 
 ![Adobe Premiere Pro Interface](BASIC SCREENSHOT LINK)
 
