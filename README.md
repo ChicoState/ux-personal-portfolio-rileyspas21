@@ -8,4 +8,4 @@ Coming soon.
 
 ## UX Journal
 
-[Journal1](UX-Journal.md)
+[Color Grading in Adobe Premier](UX-Journal.md)
