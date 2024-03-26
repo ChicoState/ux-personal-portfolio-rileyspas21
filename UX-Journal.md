@@ -11,11 +11,11 @@ One of the most interesting features of a software like this is the ablility to 
 
 The sliding bars on the right of the screenshot above, create an effect on the video in real time, which is a great example of **visibility of system status**. This is widely considered good practice in the scope of usability and, in this case, ensures that the user will always have instant feedback from the software.
 
-Above is a screenshot of a video I took on lake almanor. I wanted to make this footage look like it was taken at sunset when really it was around 3pm. The first problem is they are not there by default, and the last time I used the software was  years ago so it looks a little different. Here is what it looked like when I opened it:
+Above is a screenshot of a video I took on lake almanor. I wanted to make this footage look like it was taken at sunset when really it was around 3pm. The first problem is that the color sliders are visible by default, and the software was updated since last I used it. Here is what it looked like when I opened it:
 
 ![Image1](assets/Image3.png)
 
-In my past experiences I had used a color window, so thankfully I knew where to start, and thankfully my **mental model** was true to the **conceptual model**, adn I was able to access the sliders that I had remebered using.
+In my past experiences I had used a color window, so thankfully I knew where to start, the winows tab at the top.  Thankfully my **mental model** was true to the **conceptual model** of the software, and I was able to access the sliders that I had remembered using.
 
 ![Image1](assets/Image4.png)
 
